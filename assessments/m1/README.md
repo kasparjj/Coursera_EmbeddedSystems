@@ -9,13 +9,13 @@
 #
 ###*****************************************************************************
 
+# Author: 
+# Kaspar Jürgensen
 
-### This is a free access repository for the Coursera Specialization of Embedded
-### Software Essentials to use in conjunction with the course1, the   
-### introduction to Embedded Software and Development Environments.
+# Description: 
+# This repository hold assignments for 1 week of introduction to 
+# Embedded Systems # Software and Development Environments. The 
+# assignment made in the files stats.c and stats.h take in an array 
+# and size of it and prints stats such as minimum, maximum, mean, 
+# median and sorts the array.
 
-### The repository is organized in multiple folders:
-###    demos -> Materials to help you follow along with videos
-###    assessments -> Materials used for assessments
-
-###*****************************************************************************

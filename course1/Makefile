@@ -43,7 +43,7 @@ SIZE := size
 ifeq ($(PLATFORM),MSP432)
 
 	# Architectures Specific Flags
-	LINKER_FILE := ../msp432p401r.lds
+	LINKER_FILE := ./msp432p401r.lds
     CPU := cortex-m4
 	ARCH := thumb
 	ARM_FLAGS := -march=armv7e-m -mfloat-abi=hard -mfpu=fpv4-sp-d16
